@@ -52,10 +52,6 @@ The project’s implementation is divided into clear, sequential steps:
 - Below is a snapshot of the dashboards he developed.
 ![Dashboard Snapshot](retail_finance_dashboard.jpg)
 
-For more details on how he builds interactive dashboards and analyzes the stored Redshift data, please refer to his repository or LinkedIn profile.
-  
-LinkedIn: [Vikas Kumar](https://www.linkedin.com/in/vikas-singh00/) | Repository: [github://vikas-visualization](github://vikas-visualization)
-
 ---
 
 ## Challenges Faced
@@ -113,10 +109,5 @@ This repository includes the following key files and directories:
 
 Thank you for taking the time to review the documentation for our retail finance data migration pipeline. Your feedback and ideas are essential to refining this project. If you have suggestions or improvements, please feel free to share your thoughts.
 
-You can reach out to me directly via email at [shahbajcse@gmail.com](mailto:shahbajcse@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mdshahbaj/)
-
-Additionally, if you'd like to connect with our data analyst, Vikas—who handled the complete visualization—please check out his profiles:
-- **LinkedIn:** [Vikas Kumar](https://www.linkedin.com/in/vikas-singh00/)
-- **Repository:** [github://vikas-visualization](github://vikas-visualization)
 
 Thank you and happy collaborating!
